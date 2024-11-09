@@ -1,0 +1,12 @@
+__pycache__/
+
+*.env
+
+node_modules
+
+venv
+
+*.pdf
+*.db
+*.log
+env/
